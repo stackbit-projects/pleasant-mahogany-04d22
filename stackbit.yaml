@@ -406,6 +406,7 @@ models:
         options:
           - two
           - three
+          - 
         default: three
         required: true
       - type: list
