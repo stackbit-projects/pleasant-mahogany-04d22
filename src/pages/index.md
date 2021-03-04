@@ -104,7 +104,7 @@ sections:
   - title: lorem-ipsum
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
-    col_number: two
+    col_number: flow
     grid_items:
       - title: lorem-ipsum
         title_url: lorem-ipsum
